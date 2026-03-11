@@ -45,4 +45,4 @@ Frontend:
 
 ### How to reach me?
 
-GitHub: https://github.com/gglocimosRework or LinkedIn application
+GitHub: https://github.com/gglocimosRework or LinkedIn application (Rodrigo Martins Nascimento)
