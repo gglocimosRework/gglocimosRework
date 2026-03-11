@@ -43,6 +43,6 @@ Frontend:
 
 *Become a professional software developer contributing to real-world projects*
 
-### Contact me By:
+### How to reach me?
 
-GitHub: https://github.com/gglocimosRework
+GitHub: https://github.com/gglocimosRework or LinkedIn application
