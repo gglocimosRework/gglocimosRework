@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**gglocimosRework/gglocimosRework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Future Software Developer focused on building solid fundamentals and continuous learning.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently consolidating: HTML, CSS, JavaScript
+
+- Next focus: C# and backend development
+
+---> Strong believer in learning fundamentals before frameworks
+
+----> Interested in making well-made websites for help others
+
+------> Living in Quebec, Canada
+
+*Discipline beats motivation.*
+*Every time learning something new.*
+
+## Technologies That I'm recently working on
+
+Frontend:
+
+- *HTML*
+
+- *CSS*
+
+- *JavaScript*
+
+--> Next Step
+
+ *C#*
+
+ *.NET*
+
+## Current Focus
+
+--> Strengthening JavaScript fundamentals
+
+--> Improving code structure and logic
+
+--> Preparing for C# and backend development
+
+## Goals
+
+*Become a professional software developer*
+
+*Master backend development*
+
+*Contribute to real-world projects*
+
+### Contact me By:
+
+GitHub: https://github.com/gglocimosRework
