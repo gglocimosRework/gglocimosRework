@@ -8,11 +8,9 @@
 
 - Next focus: C# and backend development
 
----> Strong believer in learning fundamentals before frameworks
+- Interested in making well-made websites for help others
 
-----> Interested in making well-made websites for help others
-
-------> Living in Quebec, Canada
+- Living in Quebec, Canada
 
 *Discipline beats motivation.*
 *Every time learning something new.*
@@ -27,7 +25,7 @@ Frontend:
 
 - *JavaScript*
 
---> Next Step
+-- Next Step
 
  *C#*
 
@@ -43,11 +41,7 @@ Frontend:
 
 ## Goals
 
-*Become a professional software developer*
-
-*Master backend development*
-
-*Contribute to real-world projects*
+*Become a professional software developer contributing to real-world projects*
 
 ### Contact me By:
 
