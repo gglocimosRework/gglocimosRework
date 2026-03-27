@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Future Software Developer focused on building solid fundamentals and continuous learning.
+### Future Software Developer focused on building solid fundamentals codes and continuous learning.
 
 ## About Me
 
